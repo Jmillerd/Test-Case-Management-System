@@ -1,0 +1,164 @@
+[
+    {
+        "Title": "User is able to log in to messaging app successfully",
+        "Priority": "Critical",
+        "Automation Type": "None",
+        "Section": "Login"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User is unable to log in with false credentials",
+        "Priority": "High",
+        "Automation Type": "None",
+        "Section": "Login"
+    },
+    {
+        "Title": "Forgot password link works",
+        "Priority": "High",
+        "Automation Type": "None",
+        "Section": "Login"
+    },
+    {
+        "Title": "User can add contact successfully",
+        "Priority": "High",
+        "Automation Type": "None",
+        "Section": "Contacts"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User can edit a contact",
+        "Priority": "High",
+        "Automation Type": "None",
+        "Section": "Contacts"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User can delete a contact",
+        "Priority": "Medium",
+        "Automation Type": "None",
+        "Section": "Contacts"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User can send message to contact",
+        "Priority": "Critical",
+        "Automation Type": "None",
+        "Section": "Messaging"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User can view past messages",
+        "Priority": "High",
+        "Automation Type": "None",
+        "Section": "Messaging"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User can delete messages",
+        "Priority": "Low",
+        "Automation Type": "None",
+        "Section": "Messaging"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "User can use emoji to react to message",
+        "Priority": "Low",
+        "Automation Type": "None",
+        "Section": "Messaging > Reactions"
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    },
+    {
+        "Title": "",
+        "Priority": "",
+        "Automation Type": NaN,
+        "Section": NaN
+    }
+]
